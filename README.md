@@ -2,6 +2,10 @@
 
 ### Currently testing this out
 
+[![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=AmazonWebServices&logoColor=white)](https://aws.amazon.com/)
+
+[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.microsoft.com/)
+
 <!--
 **RioCDP/RioCDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
